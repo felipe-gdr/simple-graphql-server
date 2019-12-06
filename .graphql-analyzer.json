@@ -1,5 +1,3 @@
 {
-  "config": {
-    "schemaPath": "schema.graphql"
-  }
+  "schemaPath": "schema.graphql"
 }
